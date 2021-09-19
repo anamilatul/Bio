@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Bio</string>
+    <string name="nama_ana_milatul_khauliya">Nama : Ana Milatul Khauliya</string>
+    <string name="nim_a11_2020_13127">NIM : A11.2020.13127</string>
+    <string name="hobby_bersepeda">Hobby : Bersepeda</string>
+    <string name="isi_deskripsi">Saya seorang mahasiswa jurusan Teknik Informatika di Universitas Dian Nuswantoro. Sekarang saya sudah memasuki semester 3. Pada semester ini saya mengambil beberapa mata kuliah, salah satunya yaitu pemrograman perangkat bergerak.</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="alamat">Alamat</string>
+    <string name="contact_me">Contact Me :</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+</resources>
